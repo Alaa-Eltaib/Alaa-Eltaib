@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alaa-Eltaib
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on front-end
+
 
 
 <!---
