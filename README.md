@@ -38,7 +38,7 @@ I'm a technology enthusiast currently diving into **Artificial Intelligence & So
 ---
 
 ## 🌐 Connect with Me  
-🔗 [LinkedIn]((https://www.linkedin.com/in/alaameltaib/)) | 🏆 [Codeforces](https://codeforces.com/profile/alaaeltaib1)  
+🔗 [LinkedIn](https://www.linkedin.com/in/alaameltaib/) | 🏆 [Codeforces](https://codeforces.com/profile/alaaeltaib1)  
 
 ---
  
