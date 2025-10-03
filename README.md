@@ -23,9 +23,6 @@ I'm a passionate programmer interested in building efficient and creative soluti
 ## Get in Touch
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/alaameltaib/]
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alaa-Eltaib&show_icons=true&theme=radical)
-
 ---
 
 
